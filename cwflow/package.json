@@ -1,0 +1,17 @@
+{
+  "name": "cwflow",
+  "version": "0.0.1",
+  "description": "Universal workflow, Quick development with React, Vue and Web project.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "workflow",
+    "react",
+    "vue",
+    "web"
+  ],
+  "author": "",
+  "license": "MIT"
+}
