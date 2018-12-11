@@ -55,7 +55,7 @@ const initProject = (type, dirname) => {
       }
     ],
     (err, results) => {
-      console.log(chalk.green('The project initialization is complete!'))
+      console.log(chalk.green('The project initialization completed!'))
     }
   )
 }
